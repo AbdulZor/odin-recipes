@@ -1,0 +1,31 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F5F5F5;
+}
+
+body {
+    background-color: #424242;
+}
+
+h1 {
+    color: #F5F5F5;
+    text-align: center;
+}
+
+a {
+    color: #229799;
+}
+
+img {
+    height: auto;
+}
+
+ul a,
+ol a {
+    font-weight: bold;
+    font-size: revert;
+}
+
+p, li {
+    font-size: 15px;
+}
