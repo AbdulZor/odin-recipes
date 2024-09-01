@@ -6,7 +6,7 @@
 
 body {
     background-color: #424242;
-    max-width: 970px;
+    max-width: 960px;
     margin: 0 auto;
 }
 
@@ -42,7 +42,7 @@ button {
     background-color: #229799;
     padding: 10px;
     width: 300px;
-    margin: 0 10px;
+    margin: 0 10px 20px 10px;
 }
 
 .card img {
